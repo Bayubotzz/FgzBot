@@ -1,18 +1,18 @@
 {
 "AutoRespon": true,
 "AutoMusic": false,
-"AntiDelete": true,
+"AntiDelete": false,
 "autoread": true,
-"autoplaymusic": true,
+"autoplaymusic": false,
 "autocomposing": false,
 "autorecording": true,
-"BotName":"Fandi Botz",  nama bot <-
-"NomorOwner":"6281213958463",  ganti jadi no owner lu <-
-"NomorOwner2":"+62 812-1395-8463",  ganti jadi no owner lu<-
-"NamaOwner":"YT FGZCRAFT",  nama owner<-
-"Dana":"081213958463", 
-"Pulsa":"081213958463", 
-"Ovo":"081213958463", 
+"BotName":"MIKASA-BOT",  nama bot <-
+"NomorOwner":"6289525518325",  ganti jadi no owner lu <-
+"NomorOwner2":"+62 895-2551-8325",  ganti jadi no owner lu<-
+"NamaOwner":"BAYU OFC",  nama owner<-
+"Dana":"081285866502", 
+"Pulsa":"081285866502", 
+"Ovo":"tidak tersedia", 
 "ZeksApi":"twBHoFu3AnqfE6f2rwAuirfTVgh",
 "Zerkey":"ZeroYT7",
 "HunterApi":"Ikyy69"
